@@ -1,0 +1,47 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f8f8f8; /* Cor de fundo do corpo */
+    color: #333; /* Cor do texto principal */
+}
+
+header {
+    background-color: #dfa57e; /* Cor de fundo do cabeçalho */
+    padding: 10px;
+    text-align: center;
+}
+
+nav ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+
+nav li {
+    display: inline;
+    margin-right: 20px;
+}
+
+nav a {
+    text-decoration: none;
+    color: #fff; /* Cor do texto dos links no cabeçalho */
+    font-weight: bold;
+}
+
+main {
+    padding: 20px;
+}
+
+section {
+    margin-bottom: 20px;
+}
+
+footer {
+    background-color: #dfa57e; /* Cor de fundo do rodapé */
+    padding: 10px;
+    text-align: center;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
+
+/* Adicione mais estilos conforme necessário */
